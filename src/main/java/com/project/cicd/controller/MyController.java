@@ -15,10 +15,12 @@ public class MyController {
 	}
 	
 	
-	@GetMapping("/getData")
+	@GetMapping("/getData")  //This is for get
 	public String userData() {
 		return "Hello Ravi Kumar";
 	}
+	
+	
 	
 	
 
