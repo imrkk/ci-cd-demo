@@ -19,7 +19,13 @@ public class MyController {
 	public String userData() {
 		return "Hello Ravi Kumar";
 	}
+
+	// @GetMapping("/getData")  
+	// public String userData() {
+	// 	return "Hello Ravi Kumar";
+	// }
 	
+
 	
 	
 	
