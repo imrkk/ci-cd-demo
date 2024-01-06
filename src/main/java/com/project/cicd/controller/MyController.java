@@ -15,7 +15,7 @@ public class MyController {
 	}
 	
 	
-	@GetMapping("/getData")  //This is for get
+	@GetMapping("/getData")  
 	public String userData() {
 		return "Hello Ravi Kumar";
 	}
