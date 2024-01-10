@@ -14,8 +14,6 @@ public class CicdApplication {
 		
 		SpringApplication.run(CicdApplication.class, args);
 		
-		System.out.println("========================> Bye Ravi");
-		
 	}
 
 }
